@@ -1,0 +1,40 @@
+body {background-color: #ffffff
+
+}
+
+ul {
+    margin-left: 1000px;
+}
+h1 {
+    color: #ffffff;
+    font-family: Times;
+    font-size: 200%;
+    border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    background-color: #4aaaa5;
+    padding: 25px;
+    width: 20%;
+    margin: 70px;
+
+}
+h2 {
+    color: #4aaaa5;
+    font-family: Times;
+    font-size: 150%;
+    margin: 70px;
+}
+
+
+img {
+    margin: 70px;
+    height: 200px;
+    width: 200px;
+}
+
+p  {
+    color: #777777;
+    font-family: arial;
+    font-size: 100%;
+    margin: 70px;
+    width: 1025px;
+}
