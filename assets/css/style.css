@@ -13,10 +13,6 @@ h1, h2, h3, h4, h5, h6 {
 	color: #4aaaa5;
 }
 
-a {
-	text-decoration: none;
-}
-
 h1 {
 	font-size: 2em;
 }
@@ -90,12 +86,11 @@ header .container {
 }
 
 .nav ul li+li {
-	/* See https://www.jackreichert.com/2011/07/how-to-add-a-divider-between-menu-items-in-css-using-only-one-selector/ */
 	border-left: 1px solid #cccccc;
 }
 
 
-/* Main Content Area */
+
 .content {
 	width: 960px;
 	clear: both;
@@ -156,7 +151,7 @@ img.picture {
 
 
 .contact {
-	width: 540px;
+	width: 850px;
 }
 
 .contact label {
